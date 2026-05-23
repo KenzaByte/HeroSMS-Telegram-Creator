@@ -29,7 +29,7 @@ Automated Telegram account creator powered by Hero SMS API for seamless OTP veri
 #
 ## Watch it : how it works ?
 
-[![Watch the Video](https://img.youtube.com/vi/ZDG9bMAznh0/maxresdefault.jpg)](https://youtu.be/ZDG9bMAznh0)
+[![Watch the Video](https://img.youtube.com/vi/ggaru7bPfZg/maxresdefault.jpg)](https://www.youtube.com/watch?v=ggaru7bPfZg)
 
 
 ▶️ **Click the image above to watch the video **
